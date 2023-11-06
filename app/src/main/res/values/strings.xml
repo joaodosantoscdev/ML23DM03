@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cadastro de Nomes</string>
+
+    <string-array name="cursosArray">
+        <item>GTI</item>
+        <item>ADS</item>
+    </string-array>
+</resources>
